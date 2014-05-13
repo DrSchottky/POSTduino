@@ -5,3 +5,5 @@ Maybe a multiplatform version will be release in future.Or , if u want, make it 
 Schematics are in the .fcd file, but it's a simple logic level shifter.
 
 Requires FULL POST, and i tested it only on a FAT rev.
+
+Remeber to join the masses.

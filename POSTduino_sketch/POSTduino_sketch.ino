@@ -1,7 +1,7 @@
 void setup() {
 for(int i=12;i<4;--i)
 {
-  pinMode(i,LOW);
+  pinMode(i,INPUT);
 }
 Serial.begin(1000000);
 }
